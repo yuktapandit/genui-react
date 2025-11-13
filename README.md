@@ -207,15 +207,6 @@ PORT=5000
 Run the backend server:
 node server.js
 
-
-### ✅ Access Points
-- Frontend: [http://localhost:3000](http://localhost:3000)
-- Backend: [http://localhost:5000](http://localhost:5000)
-
-Ensure frontend API calls point to:
-http://localhost:5000/api/generate
-
-
 ---
 
 ## 🏁 Results & Conclusion
