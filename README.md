@@ -174,6 +174,21 @@ PORT=5000
 ## 📊 Dashboard/Model/Output
 
 ### 🖥️ Dashboard
+
+<img width="1856" height="836" alt="genui1" src="https://github.com/user-attachments/assets/73de835a-1566-417b-a100-95aa7655a534" />
+
+
+<img width="1849" height="844" alt="genui_2" src="https://github.com/user-attachments/assets/e9dfa647-3cf9-498b-ab61-3ce7584cbdfc" />
+
+
+<img width="1849" height="836" alt="genui_3" src="https://github.com/user-attachments/assets/2593e85e-5171-4720-b33d-5bfd5f075670" />
+
+
+
+<img width="1899" height="753" alt="genui_4" src="https://github.com/user-attachments/assets/9e437ae3-2d32-43c7-98a5-d9e8c47a5f01" />
+
+
+
 The application features a two-pane layout:
 * **Left Pane:** Contains input controls for the AI prompt (a textarea) and a framework selection dropdown. It also includes the "Generate" button with a loading spinner.
 * **Right Pane:** Serves as the output area, initially showing a placeholder. Once code is generated, it switches to a tabbed interface for "Code" (Monaco Editor) and "Preview" (iframe). A toolbar with copy, export, new tab, and refresh options is also present.
