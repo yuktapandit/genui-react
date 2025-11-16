@@ -70,7 +70,6 @@ F --> G[Frontend Display (Monaco Editor + Live Preview)]
 | @google/generative-ai | Connects to Google Gemini API |
 | dotenv | Secure environment variable management |
 | CORS | Enables cross-origin communication |
-| Nodemon (Dev) | Auto-restarts server during development |
 
 ### ☁️ AI Integration
 | Tool | Description |
